@@ -97,7 +97,7 @@ buttons = [
       ],
     [
         InlineKeyboardButton(
-            text="️Add Kazuko to your group", url="t.me/KazukoRobot?startgroup=true",
+            text="️Add Kazuko to your group", url="t.me/Lord_Vasu_bot?startgroup=true",
         ),
     ],
     [ 
@@ -107,7 +107,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-Hey there! My name is Kazuko.
+Hey there! My name is Lord Vasu
 Have a look at the following for an idea of some of
 the things I can help you with.
 Main commands available:
