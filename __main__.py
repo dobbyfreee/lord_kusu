@@ -74,10 +74,10 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hey there, I'm Kazuko,
+Hey there, I'm Lord Vasu,
 
-I am an Anime themed group management bot
-to help maintaining groups with my super advanced features.
+I am an Disaster themed group management bot
+to help maintaining these fuckin groups with my super advanced powers.
 
 I have lots of handy features such as:
 ‣ Warning system
@@ -92,7 +92,7 @@ Add me in your groups and promote me to make me function well[.](https://telegra
 """
 buttons = [
     [
-        InlineKeyboardButton(text="About & Support", callback_data="kazuko_"),
+        InlineKeyboardButton(text="About & Support", callback_data="kazuko"),
         InlineKeyboardButton(text="Try inline",switch_inline_query_current_chat=""),                            
       ],
     [
